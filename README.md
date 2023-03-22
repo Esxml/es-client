@@ -7,7 +7,7 @@ Toggle Crouch
 UI pack
 
 # License
-The pack is open source and free to use, nothinglse though.
+The pack is open source and free to use, nothing else though.
 
 # Credits
 By ES, Pepe and hol. Some pack features by bedrock tweaks.
